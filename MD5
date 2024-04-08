@@ -1,0 +1,13 @@
+2af1acb1ef916d9b44bb27d78fc20a43 *DESCRIPTION
+b98e1ba80204918c8d43ce534bde4a5d *NAMESPACE
+f6f47483afef1584043b88d4a7a682c5 *R/helpers.R
+28272c8b5ca7d28d612d46c767919433 *README.md
+22ba748a6eb7e3091a6b91cba71a568d *inst/extdata/child.Rmd
+136c577c7f9e0a5532e4bd015315c86e *man/build_r_plotly.Rd
+22b56b6c77e2efa56b2a761b136478ee *man/display_report.Rd
+b7ac52d54e69692ccd81e94d81962f08 *man/print_summary_tables.Rd
+a41cc6c78974c4516dd88756cda8a737 *man/process_result.Rd
+cf9a3edd603197e5011426f04ef5d72c *man/summarize_metric_result.Rd
+e96a6ca592bce1fcd895a1ce96399c23 *man/summarize_result.Rd
+5252213bc6d1b9e3c12c57700b981e94 *man/summarize_test_result.Rd
+bfd8a8257de14bb0375eb25943a9f560 *man/vm.Rd
